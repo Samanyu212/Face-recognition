@@ -1,0 +1,22 @@
+body{
+    background-color: cornsilk;
+    color: dimgray;
+}
+.heading{
+    width:80%;
+    font-size: 25px;
+}
+.name_of_object{
+    color:red;
+
+}
+#object_name,#object_accuracy{
+    font-size: 20px;
+    color: crimson;
+    
+}
+#camera,#result{
+    border:3px dashed black;
+    width: 350px;
+    height:300px;
+}
